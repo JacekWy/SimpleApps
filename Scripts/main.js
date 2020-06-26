@@ -9,4 +9,3 @@ const odejmij = () => {
   count--;
   document.getElementsByTagName("h3")[0].innerHTML = count;
 };
-document.getElementsByTagName("h3")[0].innerHTML = count;
